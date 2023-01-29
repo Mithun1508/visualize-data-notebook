@@ -3,8 +3,6 @@
  # Introduction to the JupyterLab and Jupyter Notebooks
 This is a short introduction to two of the flagship tools created by the Jupyter Community.
 
-⚠️Experimental!⚠️: This is an experimental interface provided by the JupyterLite project. It embeds an entire JupyterLab interface, with many popular packages for scientific computing, in your browser. There may be minor differences in behavior between JupyterLite and the JupyterLab you install locally. You may also encounter some bugs or unexpected behavior. To report any issues, or to get involved with the JupyterLite project, see the JupyterLite repository.
-
 # JupyterLab 🧪
 JupyterLab is a next-generation web-based user interface for Project Jupyter. 
 It enables you to work with documents and activities such as Jupyter notebooks, text editors, terminals, and custom components in a flexible, integrated, and extensible manner. It is the interface that you're looking at right now.
